@@ -91,8 +91,7 @@ Here are the relevant parameters used in the `train.py` script:
 
 ### Notebooks
 
-discuss notebooks here
-
+Use the notebook in [Post-Hoc Analysis Notebook](notebooks/post-hoc-analysis.ipynb) to generate the figures in the paper.
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
