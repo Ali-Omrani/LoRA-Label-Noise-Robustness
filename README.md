@@ -81,7 +81,7 @@ Here are the relevant parameters used in the `train.py` script:
 - `--LM`: pretrained language model to use.
 - `--method`: Method used for training.
 - `--dataset_name`: Dataset for training.
-- - `--label_col`: Label column name.
+- `--label_col`: Label column name.
 - `--balance`: Create a balanced dataset; default strategy is undersampling.
 - `--balance_ratio`: Ratio of positive class in balanced experiments.
 - `--warmup_ratio`: Ratio for linear scheduler warmup.
