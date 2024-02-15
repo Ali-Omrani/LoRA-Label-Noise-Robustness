@@ -8,10 +8,6 @@ This study investigates whether LoRA-tuned models  demonstrate the same level of
 
 ---
 
-
-
-Provide a brief overview of the project, including its purpose and key features.
-
 ## Table of Contents
 
 1. [Setup](#setup)
