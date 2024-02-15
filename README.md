@@ -89,6 +89,9 @@ Here are the relevant parameters used in the `train.py` script:
 - `--experiment_subdir`: Title of subdir for experiment, all models and logs will be written to this directory.
 - `--seed`: Random seed for reproducibility.
 
+### Notebooks
+
+discuss notebooks here
 
 ### License
 
